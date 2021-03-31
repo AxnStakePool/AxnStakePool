@@ -7,6 +7,6 @@
 "ticker": "AXNSA",
 
 "homepage": "https://axnstakepool.co.za"
-  
+"extended": "https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json"
 
 }
