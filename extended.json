@@ -19,7 +19,7 @@
             "country": "South-Africa",
         },
         "about": {
-            "me": "Chris - Software developer working for Axnosis.co.za",
+            "me": "A privately owned company registered in South Africa, operating out of offices in Pretoria, Gauteng province. We have been operational since 2004, mainly operating as an ERP software solutions provider. We have experienced software consultants, developers with skills in multiple programming languages, as well as technical expertise with network management.",
             "server": "8GB RAM, 4cores, 256GB storage server running on fiber with LTE and generator backup",
             "company": "Axnosis"
         },
@@ -28,25 +28,6 @@
         "0": "ee1f91a5e08196567a88de2f1180b4a9f673961e5c2e170421a39002"
     },
     "telegram-admin-handle": {
-        "0": "ChrisvNiekerk"
+        "0": "Axnosis"
     },
-    "adapools_ext": {
-        "prometheus": {
-            "0": {
-                "name": "",
-                "type": "",
-                "key": ""
-            },
-            "1": {
-                "name": "",
-                "type": "",
-                "key": ""
-            },
-            "2": {
-                "name": "",
-                "type": "",
-                "key": ""
-            }
-        }
-    }
 }
